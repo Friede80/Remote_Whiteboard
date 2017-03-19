@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="RemoteWhiteboard.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RemoteWhiteboard"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:my="using:Coding4Fun.Toolkit.Controls">
+
+    <Grid Background="{ThemeResource AppBarSeparatorForegroundThemeBrush}">
+        <Canvas Name="MyCanvas" Background="White" HorizontalAlignment="Center" Height="720" Margin="50,50,50,50" VerticalAlignment="Center" Width="1280" RenderTransformOrigin="0.5,0.5"/>
+        <CommandBar Name="myCommandBar" IsOpen="True" VerticalAlignment="Top" RelativePanel.AlignHorizontalCenterWithPanel="True" >
+            <CommandBar.Content>
+                <TextBlock x:Name="ConnectionTextBlock" Text="Disconnected" Margin="12,14"/>
+            </CommandBar.Content>
+            <AppBarButton VerticalAlignment="Center" HorizontalAlignment="Center" Content="Choose Color" Width="100">
+                <Button.Flyout>
+                    <Flyout>
+                        <my:ColorPicker x:Name="CPtest" ColorChanged="CPtest_ColorChanged" Height="350" Width="350" />
+                    </Flyout>
+                </Button.Flyout>
+            </AppBarButton>
+            <AppBarButton VerticalAlignment="Center" HorizontalAlignment="Center" Content="Clear" Width="100" Click="ClearButton_Click"/>
+            <AppBarButton VerticalAlignment="Center" HorizontalAlignment="Center" Content="Reconnect" Width="100" Click="ReconnectButton_Click"/>
+        </CommandBar>        
+        
+        
+    </Grid>
+</Page>

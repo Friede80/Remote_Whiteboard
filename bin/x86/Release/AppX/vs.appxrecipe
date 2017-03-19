@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FRIEDESBOX</Machine>
+    <WindowsUser>Friede</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>015c52d8-99bb-4edc-b145-d946daa12c10</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Friede</PackageIdentityPublisher>
+    <IntermediateOutputPath>e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>4FCFD9759C88C1888A24AA0BABA4CC21DC20A236CB2039B83E99B95025AD392C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>015c52d8-99bb-4edc-b145-d946daa12c10_1.0.0.0_x86__cf7mdqvprjn8y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>015c52d8-99bb-4edc-b145-d946daa12c10_cf7mdqvprjn8y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>015c52d8-99bb-4edc-b145-d946daa12c10</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Friede</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-19T03:00:06.819</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-03-17T02:36:42.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-17T02:36:42.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-17T02:36:42.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-17T02:36:42.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-17T02:36:42.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-17T02:36:42.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-17T02:36:42.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-14T01:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf">
+      <PackagePath>Coding4Fun.Toolkit.Controls\Themes\Generic.xbf</PackagePath>
+      <Modified>2016-05-12T19:21:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\DotNetNative.debugger-services-def.json">
+      <PackagePath>DotNetNative.debugger-services-def.json</PackagePath>
+      <Modified>2017-03-19T03:00:07.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\RemoteWhiteboard.dll">
+      <PackagePath>RemoteWhiteboard.dll</PackagePath>
+      <Modified>2017-03-19T03:00:06.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\RemoteWhiteboard.exe">
+      <PackagePath>RemoteWhiteboard.exe</PackagePath>
+      <Modified>2017-03-19T03:00:06.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\RemoteWhiteboard.pdb">
+      <PackagePath>RemoteWhiteboard.pdb</PackagePath>
+      <Modified>2017-03-19T03:00:06.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-19T02:59:38.762</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Friede\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.0\tools\SharedLibrary\ret\Native\">
+      <Name>Microsoft.NET.Native.Framework.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Friede\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Friede\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.6.0\tools\SharedLibrary\ret\Native\">
+      <Name>Microsoft.NET.Native.Framework.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Friede\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.6.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Friede\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.6.0\tools\SharedLibrary\ret\Native\">
+      <Name>Microsoft.NET.Native.Framework.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Friede\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.6.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\Runtime\x86\">
+      <Name>Microsoft.NET.Native.Runtime.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.6.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\Runtime\x64\">
+      <Name>Microsoft.NET.Native.Runtime.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.6.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\Runtime\arm\">
+      <Name>Microsoft.NET.Native.Runtime.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.6.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

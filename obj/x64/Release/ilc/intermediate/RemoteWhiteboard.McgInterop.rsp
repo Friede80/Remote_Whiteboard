@@ -1,0 +1,47 @@
+ /debug:pdbonly
+ /nowarn:0436;0618;1668;1685;1701;1702
+ /debug+
+ /nostdlib+
+ /optimize+
+ /out:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop.dll"
+ /pdb:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop.pdb"
+ /platform:x64
+ /warnaserror+
+ /unsafe
+ /nologo
+ /target:library
+ /define:MCG_PRE_BUILD
+ /define:WIN64
+ /define:AMD64
+ /define:ALIGN_ACCESS
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\System.Private.CoreLib.dll"
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\System.Private.CoreLib.InteropServices.dll"
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\System.Private.Interop.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Private.Uri.dll"
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\System.Private.CompilerServices.ICastable.dll"
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\System.Private.Reflection.dll"
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\System.Private.DispatchProxy.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Reflection.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Runtime.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Runtime.InteropServices.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Numerics.Vectors.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Threading.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Diagnostics.Debug.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Dynamic.Runtime.dll"
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\System.Private.CoreLib.Augments.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Runtime.Extensions.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.Collections.dll"
+ /r:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\System.ObjectModel.dll"
+ /r:"C:\Users\Friede\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.6.0\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\Adapters.g.cs"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\AssemblyInfo.g.cs"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\Data.g.cs"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\Helpers.g.cs"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\ImplTypes.g.cs"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\PInvoke.g.cs"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\SafeTypes.g.cs"
+ "e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\RemoteWhiteboard.McgInterop\SharedStubs.g.cs"

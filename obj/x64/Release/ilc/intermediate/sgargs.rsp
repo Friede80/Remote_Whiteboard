@@ -1,0 +1,11 @@
+/out:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\\"
+/ref:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\intermediate\TransformedSRWR"
+/ref:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in"
+/ref:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\\"
+/ref:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\\"
+/ref:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\lib\Private\\"
+/ref:"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Friede\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x64\ilc\csc"

@@ -1,0 +1,19 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\split.pri"			"resources.pri"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\RemoteWhiteboard.exe"			"RemoteWhiteboard.exe"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\RemoteWhiteboard.dll"			"RemoteWhiteboard.dll"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\DotNetNative.debugger-services-def.json"			"DotNetNative.debugger-services-def.json"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\clrcompression.dll"			"clrcompression.dll"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf"			"Coding4Fun.Toolkit.Controls\Themes\Generic.xbf"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\obj\x86\Release\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"

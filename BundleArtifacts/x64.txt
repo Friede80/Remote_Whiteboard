@@ -1,0 +1,2 @@
+MainPackage=e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\bin\x64\Release\RemoteWhiteboard_1.0.0.0_x64.appx
+SymbolPackage=e:\documents\visual studio 2017\Projects\RemoteWhiteboard\RemoteWhiteboard\AppPackages\RemoteWhiteboard_1.0.0.0_Test\RemoteWhiteboard_1.0.0.0_x64.appxsym
